@@ -1,0 +1,6 @@
+django-toolbelt
+Fabric==1.10.0
+argparse==1.2.1
+paramiko==1.10.0
+pycrypto==2.6.1
+wsgiref==0.1.2
